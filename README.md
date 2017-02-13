@@ -1,4 +1,4 @@
-# NinjaScala
+# ScalaNinja
 
 ## Roadmap
 
