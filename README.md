@@ -10,6 +10,7 @@
 
 ### Books
 * [Programming in Scala: 3rd Edition by Martin Odersky, Lex Spoon, Bill Venners](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687/ref=sr_1_1?s=books&ie=UTF8&qid=1486985609&sr=1-1&keywords=Programming+in+Scala)
+
 ### Video Tutorial
 * [Functional Programming Principles in Scala (Coursera)] (https://www.coursera.org/learn/progfun1/home/welcome)
 
