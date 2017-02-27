@@ -23,7 +23,7 @@
 # Prepare The Worksation:
 
 Follow the below link to prepare the workstation.
-- (Install prerequisite Softwares)[https://www.coursera.org/learn/progfun1/supplement/BNOBK/tools-setup-please-read]
+- [Install prerequisite Softwares](https://www.coursera.org/learn/progfun1/supplement/BNOBK/tools-setup-please-read)
 
 ## Configure Terminal to Git bash
 Open the Terminal page of the **Settings/Preferences** dialog, and configure the Shell path field as follows:
