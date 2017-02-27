@@ -20,5 +20,21 @@
 * [Essential Scala: Six Core Principles for Learning Scala (YouTube)](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 * [SF Scala: Martin Odersky, Scala -- the Simple Parts (YouTube)](https://www.youtube.com/watch?v=ecekSCX3B4Q&t=2288s)
 
+# Prepare The Worksation:
+## Windows:
+### Install Java:
+### Install Scala
+### Install sbt
+### Install IntelliJ IDEA
+### Configure Terminal to Git bash
+
+Open the Terminal page of the Settings/Preferences dialog, and configure the Shell path field as follows:
+
+`"[path to the git installation]\bin\sh.exe" -login -i`
+
+>Do not forget the quotes around the command!
+
+Now, when you open the new terminal in IntelliJ IDEA, it will recognize git commands:
+
 ## Start Up
 
