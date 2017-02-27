@@ -22,11 +22,14 @@
 
 # Prepare The Worksation:
 ## Windows:
-### Install Java:
+### Install Java
+- Install the latest version of Java. I have used [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) for my application. 
+
 ### Install Scala
+
 ### Install sbt
 ### Install IntelliJ IDEA
-### Configure Terminal to Git bash
+#### Configure Terminal to Git bash
 Open the Terminal page of the **Settings/Preferences** dialog, and configure the Shell path field as follows:
 
 `"[path to the git installation]\bin\sh.exe" -login -i`
