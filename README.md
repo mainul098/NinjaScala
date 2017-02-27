@@ -27,8 +27,7 @@
 ### Install sbt
 ### Install IntelliJ IDEA
 ### Configure Terminal to Git bash
-
-Open the Terminal page of the Settings/Preferences dialog, and configure the Shell path field as follows:
+Open the Terminal page of the **Settings/Preferences** dialog, and configure the Shell path field as follows:
 
 `"[path to the git installation]\bin\sh.exe" -login -i`
 
