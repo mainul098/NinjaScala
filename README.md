@@ -20,12 +20,12 @@
 * [Essential Scala: Six Core Principles for Learning Scala (YouTube)](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 * [SF Scala: Martin Odersky, Scala -- the Simple Parts (YouTube)](https://www.youtube.com/watch?v=ecekSCX3B4Q&t=2288s)
 
-# Prepare The Worksation:
+## Prepare The Worksation:
 
 Follow the below link to prepare the workstation.
 - [Install prerequisite Softwares](https://www.coursera.org/learn/progfun1/supplement/BNOBK/tools-setup-please-read)
 
-## Configure Terminal to Git bash
+### Configure Terminal to Git bash
 Open the Terminal page of the **Settings/Preferences** dialog, and configure the Shell path field as follows:
 
 `"[path to the git installation]\bin\sh.exe" -login -i`
