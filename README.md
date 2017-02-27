@@ -34,7 +34,7 @@ Open the Terminal page of the Settings/Preferences dialog, and configure the She
 
 >Do not forget the quotes around the command!
 
-Now, when you open the new terminal in IntelliJ IDEA, it will recognize git commands:
+Now, when the terminal in IntelliJ IDEA will recognize git commands.
 
 ## Start Up
 
