@@ -29,11 +29,11 @@ object function {
   }
   factorial(10)
 
-  def fibonacci(n:Int) : Int = {
+  def fibonacci(n:Int) : BigInt = {
     @tailrec
-    def fibonacci_tail(n: Int, a: Int, b: Int): Int = if (n == 0) a else fibonacci_tail(n - 1, b, a + b)
+    def fibonacci_tail(n: Int, a: BigInt, b: BigInt): BigInt = if (n == 0) a else fibonacci_tail(n - 1, b, a + b)
+
     fibonacci_tail(n, 0, 1)
   }
-  fibonacci(1000000)
-
+  fibonacci(100)
 }
