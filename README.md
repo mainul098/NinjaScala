@@ -63,10 +63,47 @@ Scala also support *type inference*, Scala's ability to figire out types you lea
 
 
 ### Define Functions
-
 ```scala
 def max(x: Int, y: Int): Int = {
            if (x > y) x
            else y
          }
  ```
+ 
+ 
+ >For *non-recursive* function, *return* type declation is optional. Also, if a function consists of just one statement, you can optionally leave off the curly braces. Thus, you could alternatively write the `max` function like this:
+ ```scala
+def max(x: Int, y: Int) = if (x > y) x else y
+ ```
+
+>If there is no parameters and no interesting result, the function defination can be written as follow:
+```scala
+def greet() = println("Hello Mainul!")
+```
+
+### Iteration
+
+#### Imperative style Iteration with `WHILE`
+```scala
+var i = 0
+  while (i < args.length) {
+    println(args(i))
+    i += 1
+  }
+```
+
+#### Functional style Iteration with `FOREACH`
+```scala
+args.foreach((arg: String) => println(arg))
+```
+
+or 
+```scala
+args.foreach(arg => println(arg))
+```
+
+or 
+```scala
+args.foreach(println)
+```
+
