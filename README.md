@@ -64,7 +64,9 @@ Scala also support *type inference*, Scala's ability to figire out types you lea
 
 ### Define Functions
 
-`def max(x: Int, y: Int): Int = {
+```scala
+def max(x: Int, y: Int): Int = {
            if (x > y) x
            else y
-         }`
+         }
+ ```
