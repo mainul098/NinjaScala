@@ -46,3 +46,6 @@ For example, when you say `1 + 2` in Scala, you are actually invoking a method n
 
 This is how the designer of Akka's actors API enabled you to use expressions such as requester `!` sum shown in the previous example: `!` is a method of the `Actor` class.
 
+### Scala in functional
+
+>Functions are first-class values in Scala. You can pass a function as arguments to other functiona, return them as results from functions, or store them in variables. You can also define a function inside other functions.
