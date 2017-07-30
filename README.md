@@ -97,12 +97,12 @@ var i = 0
 args.foreach((arg: String) => println(arg))
 ```
 
-or 
+or, Scala interpreter infers the type
 ```scala
 args.foreach(arg => println(arg))
 ```
 
-or 
+or, if a function literal consists of one statement that takes a single argument, you need not explicitly name and specify the argument.
 ```scala
 args.foreach(println)
 ```
