@@ -61,3 +61,10 @@ Scala also support *type inference*, Scala's ability to figire out types you lea
 
 `val msg1 = "I am a string too"`
 
+
+### Define Functions
+
+`def max(x: Int, y: Int): Int = {
+           if (x > y) x
+           else y
+         }`
