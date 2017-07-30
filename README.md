@@ -35,4 +35,8 @@ Open the Terminal page of the **Settings/Preferences** dialog, and configure the
 Now, when the terminal in IntelliJ IDEA will recognize git commands.
 
 ## Start Up
+Scala stands for 'Scalable Language'. It runs on Java platform and interoperates seamlessly with all Java libraries.
+### Scala is object-oriented
+Scala is an object-oriented language in pure form: every value is an object and every operation is a method call. 
+For example, when you say `1 + 2` in Scala, you are actually invoking a method named `+` defined in class `Int`. You can define methods with operator-like names that clients of your API can then use in operator notation. This is how the designer of Akka's actors API enabled you to use expressions such as requester `!` sum shown in the previous example: `!` is a method of the `Actor` class.
 
