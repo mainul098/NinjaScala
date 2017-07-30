@@ -18,3 +18,8 @@ project/plugins/project/
 .idea/
 project/
 target
+src/main/scala/Beginning/1.FunctionAndEvaluation/
+src/main/scala/Beginning/4.TypesAndPatternMatching/
+src/main/scala/Beginning/5.Lists/
+src/main/scala/Beginning/6.Collections/
+src/test/scala/
