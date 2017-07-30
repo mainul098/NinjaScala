@@ -49,3 +49,15 @@ This is how the designer of Akka's actors API enabled you to use expressions suc
 ### Scala in functional
 
 >Functions are first-class values in Scala. You can pass a function as arguments to other functiona, return them as results from functions, or store them in variables. You can also define a function inside other functions.
+
+# Basic Syntax
+
+### Define Variables
+>Two kinds of variables `val` and `var`. `val` can never be reassigned. A `var` in contrast can be re-assigned throughout its lifetime. 
+
+`val msg:String = "I am a string"`
+
+Scala also support *type inference*, Scala's ability to figire out types you leave off. So, the below variable declation is also valid.
+
+`val msg1 = "I am a string too"`
+
